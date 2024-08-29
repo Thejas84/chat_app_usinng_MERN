@@ -66,12 +66,6 @@ Start the backend server:npm start
 
 Start the frontend server:npm run dev
 
-<br><br>
-
-
-
-<br><br>
-
 
 <br><br>
 **Usage**
